@@ -1,7 +1,7 @@
 ## 🔨 Currently building — **quake.su** tournament platform
 
 ![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-10-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-2.4-D22128?style=flat-square&logo=apache&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-auto--deploy-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Status](https://img.shields.io/badge/status-in_production-success?style=flat-square)
